@@ -23,6 +23,6 @@ def get_logger(name):
     return logger
 
 
-if __name__=="__main__":
-    logger = get_logger(__name__)
-    logger.info("This is a test log message")
+# if __name__=="__main__":
+#     logger = get_logger(__name__)
+#     logger.info("This is a test log message")
